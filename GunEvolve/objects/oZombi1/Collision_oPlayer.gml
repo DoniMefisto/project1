@@ -1,0 +1,1 @@
+oPlayer.hp -= 1;
