@@ -1,4 +1,4 @@
-for (i = 0; i < wave_count; i++) 
+for (i = 1; i < wave_count; i++) 
 {
 	side = irandom(3);
 	switch (side) {

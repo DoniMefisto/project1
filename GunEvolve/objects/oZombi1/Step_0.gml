@@ -3,7 +3,7 @@ if (distance_to_object(oPlayer)) >= 1
 	mp_potential_step(oPlayer.x,oPlayer.y,2,oZombi1)
 }
 
-if (hp <=0) 
+if (zombi_hp <=0) 
 {
 	instance_destroy();
 	instance_create_layer(x,y,"Instances", oCoin);

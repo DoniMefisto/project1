@@ -1,1 +1,1 @@
-oPlayer.hp -= 1;
+other.player_hp -= 1;

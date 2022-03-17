@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "sHLAM",
-    "path": "sprites/sHLAM/sHLAM.yy",
-  },
+  "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
   "tilexoff": 0,

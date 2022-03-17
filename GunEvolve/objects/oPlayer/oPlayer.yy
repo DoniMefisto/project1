@@ -7,7 +7,10 @@
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oPlayerSpawn",
+    "path": "objects/oPlayerSpawn/oPlayerSpawn.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,

@@ -1,6 +1,7 @@
 spawn_time = 2;
 wave_count = 4;
 
+
 randomize ();
 
 alarm_set(0,room_speed * spawn_time);

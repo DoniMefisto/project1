@@ -5,4 +5,6 @@ draw_text(15, 55, "Damage: " + string(oBullets.bullet_damage));
 
 draw_text(15, 35, "Lvl: " + string(lvl));
 
-draw_text(15, 75, "HP: " + string(oPlayer.hp));
+draw_text(15, 75, "HP: " + string(oPlayer.player_hp));
+
+//draw_text(15, 95, "zombiHP: " + string(other.zombi_hp));

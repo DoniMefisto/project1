@@ -1,1 +1,1 @@
-room_goto(rLvl1);
+room_goto(rChose);
