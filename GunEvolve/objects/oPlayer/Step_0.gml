@@ -53,4 +53,6 @@ if (player_hp <= 0)
 {
 	instance_destroy();
 	room_goto(rMenu);
+	instance_deactivate_all(true);
+	
 }
