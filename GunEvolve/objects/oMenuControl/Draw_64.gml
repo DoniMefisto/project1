@@ -1,3 +1,4 @@
+#region Пауза
 key_pause = keyboard_check_pressed(vk_escape);
 
 var screen_width = display_get_gui_width(),
@@ -33,3 +34,4 @@ if (key_pause)
 	instance_deactivate_all(true);
 }
 }
+#endregion

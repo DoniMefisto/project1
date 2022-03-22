@@ -1,2 +1,3 @@
-zombi_hp = 0;
-zombi_damage = 0;
+zombi_hp = 1;
+zombi_damage = 2;
+zombi_speed = 0;
